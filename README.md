@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 Minhas Estatísticas
 
 ![Estatísticas do GitHub de Heber](https://github-readme-stats.vercel.app/api?username=hebermacedo&show_icons=true&locale=pt-br&theme=default)
 
