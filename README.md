@@ -1,4 +1,4 @@
-## 📚 Sobre Heber Macedo
+ ## 📚 Sobre Heber Macedo
 
 🎓 Estudante de Engenharia de Software (1º semestre)  
 💻 Aprendendo: C e C++  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
+## 🛠️ Linguagens em aprendizado
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
 
