@@ -1,6 +1,6 @@
  ## 📚 Sobre Heber Macedo
 
-🎓 Estudante de Engenharia de Software (1º semestre)  
+🎓 Estudante de Engenharia de Software (3º semestre)  
 💻 Aprendendo: C e C++  
 🚀 Buscando minha primeira oportunidade na área de TI  
 📈 Evoluindo a cada dia!
