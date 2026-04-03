@@ -1,53 +1,44 @@
-<div align="center">
-  <h1>👋 Olá, eu sou o Heber Macedo!</h1>
-  <p><b>Engenheiro de Software em formação | Especialista em Soluções Eficientes</b></p>
-</div>
+# Heber Macedo
+**Engenheiro de Software em formação** *Focado em desenvolvimento de sistemas robustos e eficiência de algoritmos.*
 
+---
+
+### 🖋️ Sobre mim
+[cite_start]Sou estudante de **Engenharia de Software (3º semestre)**[cite: 3, 4]. [cite_start]Atualmente, dedico meus estudos ao domínio das linguagens **C, C++ e Python**, buscando aplicar conceitos de estruturas de dados e lógica em problemas do mundo real[cite: 7, 8].
+
+- [cite_start]🚀 **Projeto em destaque:** Desenvolvi o **MedSync**, um ecossistema CLI para controle de medicamentos com foco em acessibilidade para idosos[cite: 7, 9].
+- [cite_start]🛠️ **DevOps & Qualidade:** Experiência com **CI/CD (GitHub Actions)**, testes automatizados (**Pytest**) e análise estática de código (**Ruff**)[cite: 17, 18].
+- 🎯 **Objetivo:** Primeira oportunidade em desenvolvimento de software ou estágio na área de tecnologia.
+
+---
+
+### 💻 Stack Tecnológica
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, C, C++ |
+| **Ferramentas** | Git, GitHub Actions, VS Code |
+| **Qualidade** | Pytest, Ruff (Linting) |
+
+---
+
+### 📊 Atividade no GitHub
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=O%20sucesso%20%C3%A9%20a%20soma%20de%20pequenos%20esfor%C3%A7os%20repetidos%20dia%20ap%C3%B3s%20dia.&author=Robert%20Collier&theme=radical" alt="Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeberMacedo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas de Heber" />
 </div>
 
 ---
 
-### 🚀 Sobre Mim
-- 🎓 **Educação:** Cursando Engenharia de Software (3º Semestre).
-- 💻 **Foco Atual:** Python, algoritmos avançados e estruturas em C/C++.
-- 🛠️ **Projeto Principal:** Desenvolvedor do [MedSync](https://github.com/HeberMacedo/medsync).
-- ⚡ **Objetivo:** Transformar lógica complexa em código simples e funcional.
+### 📂 Projetos Selecionados
+* [cite_start]**[MedSync](https://github.com/HeberMacedo/medsync)**: Sistema de agendamento de medicamentos com pipeline de CI/CD integrado[cite: 1, 18].
+* **[HeberMacedoSITE](https://github.com/HeberMacedo/HeberMacedoSITE)**: Portfólio pessoal focado em tecnologias web.
 
 ---
 
-### 🛠️ Toolbox (Meu Arsenal Técnico)
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
+### 📫 Contato
+- [cite_start]**LinkedIn:** [linkedin.com/in/heber-americo-794812363](https://linkedin.com/in/heber-americo-794812363) 
+- **Email:** `seu-email@exemplo.com`
 
 ---
-
-### 📈 Desempenho e Atividade
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=radical&hide_border=true&title_color=00d1ff&icon_color=00d1ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMacedo&layout=compact&theme=radical&hide_border=true&title_color=00d1ff" />
-</div>
-
----
-
-### 🤝 Vamos nos conectar?
-<div align="center">
-  <a href="https://linkedin.com/in/heber-americo-794812363" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=100&section=footer" />
-</div>
+<p align="center">
+  <sub>Desenvolvido com foco em qualidade e padronização.</sub>
+</p>
