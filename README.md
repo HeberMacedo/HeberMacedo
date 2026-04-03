@@ -5,15 +5,15 @@ Estudante de Engenharia de Software focado em criar soluções eficientes e apai
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando **Engenharia de Software (3º Semestre)**.
-- 💻 Atualmente focado em **Python** e algoritmos em **C/C++**.
-- 🛠️ No momento, estou desenvolvendo o **MedSync**, um sistema de controle de medicamentos.
-- ⚡ Buscando minha primeira oportunidade como Desenvolvedor Junior / Estagiário.
+* 🎓 Cursando **Engenharia de Software (3º Semestre)**.
+* 💻 Atualmente focado em **Python** e algoritmos em **C/C++**.
+* 🛠️ No momento, estou desenvolvendo o **MedSync**, um sistema de controle de medicamentos.
+* ⚡ Buscando minha primeira oportunidade como Desenvolvedor Junior / Estagiário.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<div>
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -24,9 +24,16 @@ Estudante de Engenharia de Software focado em criar soluções eficientes e apai
 ---
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do Heber](https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMacedo&layout=compact&theme=dark" />
+</div>
 
 ---
 
 ### 📫 Como me encontrar
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/heber-americo-794812363)
+<div align="left">
+  <a href="https://linkedin.com/in/heber-americo-794812363" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
