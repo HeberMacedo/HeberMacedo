@@ -1,61 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=200&section=header&text=Heber%20Macedo&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-  
-  <h3>👨‍💻 Engenheiro de Software em Formação</h3>
-  <p><i>Focado em arquitetura de sistemas, performance e automação de alta qualidade.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d1ff&height=150&section=header&text=Heber%20Macedo&fontSize=60&animation=fadeIn" width="100%" />
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </div>
+  <p align="center">
+    <b>Software Engineer Student</b> • <b>Problem Solver</b> • <b>Tech Enthusiast</b>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/heber-americo-794812363">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:hebermacedo87@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 📖 Sobre Mim
+### ⚡ Professional Summary
 
-[cite_start]Sou estudante de **Engenharia de Software (3º semestre)**[cite: 3, 4]. [cite_start]Atualmente, dedico meus estudos ao domínio das linguagens **C, C++ e Python**, buscando aplicar conceitos de estruturas de dados e lógica em problemas do mundo real[cite: 7, 8].
+[cite_start]Sou estudante de **Engenharia de Software (3º semestre)**[cite: 3, 4]. [cite_start]Meu foco é o desenvolvimento de sistemas de alta performance utilizando **C, C++ e Python**, sempre priorizando a eficiência de algoritmos e a qualidade de software[cite: 7, 8].
 
-* [cite_start]🚀 **Projeto em Destaque:** Desenvolvi o **[MedSync](https://github.com/HeberMacedo/medsync)**, um ecossistema CLI para controle de medicamentos com foco em acessibilidade para idosos[cite: 7, 9].
-* [cite_start]🛠️ **DevOps & Qualidade:** Experiência com **CI/CD (GitHub Actions)**, testes automatizados (**Pytest**) e análise estática de código (**Ruff**)[cite: 17, 18].
-* 🎯 **Objetivo:** Buscando primeira oportunidade em desenvolvimento de software ou estágio na área de tecnologia.
+* [cite_start]🚀 **Destaque:** Idealizador do **[MedSync](https://github.com/HeberMacedo/medsync)**, uma solução focada em acessibilidade para o controle de medicamentos[cite: 7, 9].
+* [cite_start]🛠️ **DevOps:** Experiência com **GitHub Actions, CI/CD** e automação de testes com **Pytest**[cite: 17, 18].
+* [cite_start]🔍 **Qualidade:** Uso rigoroso de **Linter (Ruff)** para garantir códigos limpos e padronizados[cite: 17].
 
 ---
 
-### 💻 Stack Tecnológica
+### 🛠️ Tech Stack
 
-| Categoria | Tecnologias |
+| Domain | Technologies |
 | :--- | :--- |
-| **Linguagens** | Python, C, C++ |
-| **DevOps** | GitHub Actions, CI/CD Pipelines |
-| **Qualidade** | Pytest, Ruff (Linting), Análise Estática |
-| **Ferramentas** | Git, GitHub, VS Code |
+| **Languages** | Python, C, C++ |
+| **DevOps & CI/CD** | GitHub Actions, Automation Pipelines |
+| **Testing & Quality** | Pytest, Ruff (Linting), Static Analysis |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
-### 📈 Estatísticas de Contribuição
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d1ff&icon_color=00d1ff" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMacedo&layout=compact&theme=tokyonight&hide_border=true&title_color=00d1ff" height="170px" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=transparent&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&hide_border=true" height="150px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMacedo&layout=compact&theme=transparent&title_color=00d1ff&text_color=ffffff&hide_border=true" height="150px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🤝 Conecte-se Comigo
-
 <div align="center">
-  <a href="https://linkedin.com/in/heber-americo-794812363" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hebermacedo87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00d1ff&height=30&section=footer" width="100%" />
+  <sub>"Código limpo sempre parece que foi escrito por alguém que se importa."</sub>
 </div>
