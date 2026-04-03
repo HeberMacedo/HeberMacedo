@@ -1,38 +1,81 @@
-# 📚 Sobre Heber Macedo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=c40000&section=header"/>
 
-🎓 **Estudante de Engenharia de Software (3º semestre)**
-💻 **Aprendendo:** C, C++ e Python
-🚀 **Buscando minha primeira oportunidade na área de TI**
-📈 **Evoluindo a cada dia!**
 
----
 
-### 🌐 Redes Sociais
-
-<div align="left">
-  <a href="https://linkedin.com/in/heber-americo-794812363" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hebermacedo87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
+ <img width="176" height="205" src="https://github.com/user-attachments/assets/c71c3256-9fd9-4e12-9e8c-0d54821d84c8" />
 </div>
 
----
+<br>
 
-### 🛠️ Linguagens e Ferramentas
+<div align="center">
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+# Hey! I'm Paulo Henrique Pereira
+
+**Estudante de desenvolvimento focado em C# e Web.**
+Buscando estágio para ganhar experiência prática e evoluir como programador.
+Sou estudante da FATEC e ETEC bastante interessado em tecnologia, desenvolvimento de software e resolução de problemas.
+<br>
+
+<h2>Tecnologias</h2>
+
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
----
+<br>
 
-### 📊 Atividade no GitHub
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
+<details align="center">  
+  <summary><b>Mais informações</b></summary>
+
+<br>
+
+
+
+<div align="center">
+  
+## Objetivos
+
+• Conseguir meu primeiro estágio na área de tecnologia
+• Construir projetos mais complexos
+• Melhorar lógica e resolução de problemas
+• Evoluir comunicação e trabalho em equipe
+
+<br>
+
+## Projetos
+
+**CRUD com JavaScript**
+Manipulação de dados, eventos e interação com interface.
+
+**Página web responsiva**
+Layout adaptável com HTML e CSS.
+
+(Em breve mais projetos conforme evolução.)
+
+<br>
+
+## Estatísticas
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agentphpp&theme=kacho_ga"/>
+
+<br>
+<br>
+
+## Contato
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-c40000?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:paulohenriquepereiralontra@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c40000?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/paulo-lontra-a529472b6/)
+
 </div>
+
+</details>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=c40000&section=footer"/>
