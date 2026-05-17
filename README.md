@@ -33,11 +33,12 @@ Sistema para controle de medicamentos, criado como projeto de BootCamp. A aplica
 - Deploy: [hebermacedo.github.io/medsync](https://hebermacedo.github.io/medsync/)
 - Tecnologias: Python, Pytest, Ruff, GitHub Actions, HTML, CSS, JavaScript e ViaCEP
 
-## Estatisticas
+## Foco atual
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeberMacedo&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMacedo&layout=compact&theme=github_dark&hide_border=true)
+- Praticar logica de programacao com C e C++
+- Criar projetos pequenos para evoluir meu portfolio
+- Estudar Python, testes automatizados e GitHub Actions
+- Melhorar meus conhecimentos em HTML, CSS e JavaScript
 
 ## Contato
 
